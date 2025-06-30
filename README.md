@@ -60,7 +60,7 @@ numpy
 
 mss
 
-mss
+
 
 💻 Usage
 From the project directory:
