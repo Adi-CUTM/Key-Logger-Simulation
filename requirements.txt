@@ -1,0 +1,5 @@
+pynput
+opencv-python
+mss
+pyautogui
+pycryptodome  # optional for future encryption
